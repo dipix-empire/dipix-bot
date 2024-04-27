@@ -1,0 +1,8 @@
+{
+  "name": "dipix-bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:dipix-empire/dipix-bot.git",
+  "author": "Philainel <toropovmat@gmail.com>",
+  "license": "MIT"
+}
